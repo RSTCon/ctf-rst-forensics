@@ -1,0 +1,5 @@
+
+Text: rst_cannot_be_hacked
+Flag: RST{624007bd212e8356bdd4d5e34dbf16eb579cfec0ad2649429b40e67063176621}
+
+https://rstforums.com/forum/uploads/javascript_global/root_library.js?v=61423563571616972063
